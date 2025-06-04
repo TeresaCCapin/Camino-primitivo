@@ -19,7 +19,7 @@
       "data": "https://api.maptiler.com/data/019737a4-9a76-7cfa-89f8-b209cdfc7a7c/features.json?key=E0UUy50zIhxQDLQHFdeO"
     }
   },
-  "sprite": "https://openmaptiles.github.io/klokantech-basic-gl-style/sprite",
+  "sprite": "https://api.maptiler.com/maps/streets-v2/tiles.json?key=E0UUy50zIhxQDLQHFdeO",
   "glyphs": "https://api.maptiler.com/fonts/{fontstack}/{range}.pbf?key=E0UUy50zIhxQDLQHFdeO",
   "layers": [
     {
