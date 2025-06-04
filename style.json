@@ -16,7 +16,7 @@
     },
     "CAMINO": {
       "type": "geojson",
-      "data": "https://api.maptiler.com/data/019737a4-9a76-7cfa-89f8-b209cdfc7a7c/features.json?key=owzCEoWHDRGfhcb3tvf1"
+      "data": "https://api.maptiler.com/data/019737a4-9a76-7cfa-89f8-b209cdfc7a7c/features.json?key=E0UUy50zIhxQDLQHFdeO"
     }
   },
   "sprite": "https://openmaptiles.github.io/klokantech-basic-gl-style/sprite",
