@@ -228,6 +228,11 @@
         .legend div #text {
             vertical-align: top;
         }
+        * Media Query para ocultar la leyenda en pantallas pequeñas (móviles) */
+@media (max-width: 768px) { /* La leyenda se ocultará en pantallas de 768px de ancho o menos */
+    .legend {
+        display: none !important; /* Oculta la leyenda en móviles */
+    }
 
         .maplibregl-ctrl {
             margin-right: 30px !important;
